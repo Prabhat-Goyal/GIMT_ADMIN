@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="home_category_icon">
+    <item>@drawable/ic_teacher3</item>
+    <item>@drawable/ic_profile1</item>
+    <item>@drawable/ic_result</item>
+    <item>@drawable/ic_exam</item>
+    <item>@drawable/ic_holidays</item>
+    <item>@drawable/ic_events</item>
+    <item>@drawable/ic_notice2</item>
+    <item>@drawable/ic_time_table</item>
+    <item>@drawable/hostel</item>
+        <item>@drawable/vehicles</item>
+        <item>@drawable/shutdown</item>
+</integer-array>
+
+    <string-array name="home_category_title">
+        <item>Add Teacher</item>
+        <item>Add Students</item>
+        <item>Result</item>
+        <item>Exams</item>
+        <item>Holidays</item>
+        <item>Events</item>
+        <item>Notice</item>
+        <item>Time Table</item>
+        <item>Hostel</item>
+        <item>Transport</item>
+        <item>Logout</item>
+
+    </string-array>
+
+
+   </resources>
